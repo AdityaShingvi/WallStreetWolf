@@ -1,0 +1,2 @@
+# WallStreetWolf
+My trading app
